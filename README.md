@@ -1,2 +1,2 @@
 # __MOVED__
-See: https://gitlab.com/automotivegradelinux
+See: https://gerrit.automotivelinux.org
